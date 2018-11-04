@@ -1,4 +1,4 @@
-# video-translator-amazon-translate
+# Video Transcribing and Translation with subtitling
 Video transcriber and translator using Amazon Translate, Transcribe and Polly
 
 Inspired by AWS Machine Learning Blog: [Create video subtitles with translation using machine learning]
