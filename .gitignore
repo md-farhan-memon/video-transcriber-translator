@@ -1,0 +1,14 @@
+# .bat files
+*.bat
+
+# .mp3 files
+*.mp3
+
+# .mp4 files
+*.mp4
+
+# .srt files
+*.srt
+
+# .pyc files
+*.pyc
